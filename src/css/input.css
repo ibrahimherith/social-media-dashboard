@@ -33,6 +33,7 @@
   --color-White: hsl(0, 0%, 100%);
   --color-VeryPaleBlue: hsl(225, 100%, 98%);
   --color-LightGrayishBlue: hsl(227, 47%, 96%);
+  --color-MediumGrayishBlue: hsl(227, 27%, 66%);
   --color-DarkGrayishBlue: hsl(228, 12%, 44%);
   --color-VeryDarkBlue: hsl(230, 17%, 14%);
 }
