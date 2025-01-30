@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/ibrahimherith/social-media-dashboard)
+- Live Site URL: [](https://ibrahimherith.github.io/social-media-dashboard/)
 
 ## My process
 
@@ -90,4 +90,4 @@ To learn and practice more about tailwindcss and use it in projects.
 
 - Website - [Ibrahim Herith](https://itsibrah.netlify.app/)
 - Frontend Mentor - [@ibrahimherith](https://www.frontendmentor.io/profile/ibrahimherith)
-- Twitter - [@itsibrah](https://www.twitter.com/itsibrah)
+- Twitter - [@itsibrah](https://www.twitter.com/itsibrah_)
