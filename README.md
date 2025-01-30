@@ -28,10 +28,10 @@ Users should be able to:
 
 ### Screenshot
 
-[](src/images/desktop-light.png)
-[](src/images/desktop-dark.png)
-[](src/images/mobile-light.png)
-[](src/images/mobile-dark.png)
+![](src/images/desktop-light.png)
+![](src/images/desktop-dark.png)
+![](src/images/mobile-light.png)
+![](src/images/mobile-dark.png)
 
 ### Links
 
@@ -88,6 +88,6 @@ To learn and practice more about tailwindcss and use it in projects.
 
 ## Author
 
-- Website - [Ibrahim Herith](https://www.itsibrah.netlify.app)
-- Frontend Mentor - [@ibrahimherith](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Ibrahim Herith](https://itsibrah.netlify.app/)
+- Frontend Mentor - [@ibrahimherith](https://www.frontendmentor.io/profile/ibrahimherith)
 - Twitter - [@itsibrah](https://www.twitter.com/itsibrah)
