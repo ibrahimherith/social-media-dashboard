@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/ibrahimherith/social-media-dashboard)
-- Live Site URL: [](https://ibrahimherith.github.io/social-media-dashboard/)
+- Solution URL: [github](https://github.com/ibrahimherith/social-media-dashboard)
+- Live Site URL: [url](https://ibrahimherith.github.io/social-media-dashboard/)
 
 ## My process
 
